@@ -26,3 +26,4 @@ https://www.w3schools.com/js/js_functions.asp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
+https://www.w3schools.com/jsref/jsref_floor.asp

@@ -71,8 +71,8 @@ function generatePassword(){
             const random = Math.floor(Math.random() * characters.length); // creates a cont random which multiplys 1 by a number within the length of the array characters
             password += characters[random]; // builds the password string 1 by 1 until it hits the character length specified in the begining of the loop
         }
+        console.log("made by christian smith") 
         return password; // prints password to the text box
-        console.log("made by christian smith")
 }
 
 
