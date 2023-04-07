@@ -34,7 +34,7 @@ function generatePassword() {
     const specialChar = confirm("Would you like to include special characters?")
     if (specialChar) { // if statement that only dispalys if user clicks on yes
         characters = characters.concat(special); // if they selected yes will add special characters from the array special to the characters string
-        console.log(`characters: ${characters}`) // used for debugging to keep track of the characters string
+        // console.log(`characters: ${characters}`) // used for debugging to keep track of the characters string
         // console.log(specialChar)
     }
 
