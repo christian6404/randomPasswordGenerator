@@ -1,7 +1,7 @@
 # randomPasswordGenerator
  A random password generator using javascript made by Christian Smith
 
-https://christian6404.github.io/randomPasswordGenerator/
+https://christian6404.github.io/randomPasswordGeneratorByChristian/
 
 
 
